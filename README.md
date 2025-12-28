@@ -52,7 +52,7 @@ JavaScript   → Form handling & UI behaviour
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=E1306C&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Pravin;Frontend+UI+Learner;Educational+Projects+Only" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=E1306C&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+亗mr๛𝐏𝐫𝐚𝐯𝐢𝐧๛;Frontend+UI+Learner;Educational+Projects+Only" />
 </p>
 
 <p align="center">
