@@ -49,3 +49,22 @@ text
 HTML5        → Page structure
 CSS3         → Styling, borders & animations
 JavaScript   → Form handling & UI behaviour
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=E1306C&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Pravin;Frontend+UI+Learner;Educational+Projects+Only" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/mishra_143p" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/HackPulse_Zero" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:34A853&height=2&section=footer" />
+</p>
